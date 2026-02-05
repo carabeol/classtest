@@ -15,4 +15,13 @@ public class ICE3 {
         double result = cc.conversor("MEX", "CAD",100);
         System.out.println("100 Mexican Pesos are: " + result + " CAD");
     }
+        
+    public double addNums(int a , int b ){
+    return a+b;
+     }
+    
+    
+    public double devideNums(int a , int b ){
+    return a/b;
+     }
 }
